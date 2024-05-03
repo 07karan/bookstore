@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Html",
+        "title": "Html For Begginers",
+        "price": 10,
+        "desc":"HTML (Hypertext Markup Language) is the standard markup language used to create web pages. It defines the structure and layout of content on the web.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/premium-vector/web-development-coding-programming-languages-css-html-js-program-code-screen-laptop_530733-2087.jpg?w=740"
+        
+    },
+    {
+        "name": "Css",
+        "title": "Css For Begginers",
+        "price": 15,
+        "desc":"CSS (Cascading Style Sheets) is used to style HTML elements and define their appearance on web pages. It allows developers to control the layout, colors, fonts, and other visual aspects of a website.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?t=st=1713691122~exp=1713694722~hmac=4b33173cac234e6f7c15cba4b73cd5e00413ad1d80ac7852281b584ccd3e27c6&w=740"
+    },
+    {
+        "name": "javascript",
+        "title": "Javascript For Begginers",
+        "price": 20,
+        "desc":"JavaScript is a high-level programming language commonly used for web development. It enables interactive and dynamic functionality on web pages, such as user interactions, animations, and data manipulation.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?t=st=1713691122~exp=1713694722~hmac=4b33173cac234e6f7c15cba4b73cd5e00413ad1d80ac7852281b584ccd3e27c6&w=740"
+    },
+    {
+        "name": "React",
+        "title": "Javascript For Intermediate",
+        "price": 10,
+        "desc":"React is a popular JavaScript library for building user interfaces. Developed by Facebook, React allows developers to create interactive and dynamic UI components for web and mobile applications. It uses a component-based architecture, where UIs are composed of reusable and independent components, making it easy to build and maintain complex applications",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/atomic-science-technology-background-vector-border-blue-neon-style-with-blank-space_53876-125999.jpg?t=st=1713691245~exp=1713694845~hmac=6d2c97a12640fb56ea601030af8572e7da2b3113018ce87fbc00869e866799a3&w=740"
+    },
+    {
+        "name": "Node",
+        "title": "Node For Begginers",
+        "price": 12,
+        "desc":" Node.js is a runtime environment that allows developers to run JavaScript code server-side. It provides an event-driven, non-blocking I/O model that makes it lightweight and efficient for building scalable and real-time web applications.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/software-developers-working-script-coding-engineer-character-programming-php-python-javascript-other-languages_90220-243.jpg?t=st=1713691289~exp=1713694889~hmac=d3d92f808e2593636233fb103780e0475d40837ade40f2e4cfbc0e0ca99737ac&w=740"
+    },
+    {
+        "name": "Express",
+        "title": "Express For Begginers And Intermediate",
+        "price": 7,
+        "desc":"Express.js is a web application framework for Node.js, designed to simplify the process of building web servers and APIs. It provides a robust set of features for routing, middleware, and handling HTTP requests and responses",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/software-developers-working-script-coding-engineer-character-programming-php-python-javascript-other-languages_90220-243.jpg?t=st=1713691289~exp=1713694889~hmac=d3d92f808e2593636233fb103780e0475d40837ade40f2e4cfbc0e0ca99737ac&w=740"
+    },
+    {
+        "name": "MongoDB",
+        "title": "MongoDB For Begginers",
+        "price": 10,
+        "desc":"MongoDB is a NoSQL database that uses a document-oriented data model. It stores data in flexible, JSON-like documents, making it ideal for handling unstructured or semi-structured data and enabling rapid development and scalability.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/big-data-center-server-room-rack-engineering-process-teamwork-computer-technology-cloud-storage_39422-1032.jpg?t=st=1713691371~exp=1713694971~hmac=04b6b3707136607df91bfa0b3e16da5d682edd762af895b3d2149fe208aa32c0&w=740"
+    },
+    {
+        "name": "MySQL",
+        "title": "MySQL For Begginers",
+        "price": 7,
+        "desc":" MySQL is an open-source relational database management system (RDBMS) known for its reliability, performance, and ease of use. It uses structured query language (SQL) for managing and manipulating data in relational databases.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/big-data-center-server-room-rack-engineering-process-teamwork-computer-technology-cloud-storage_39422-1032.jpg?t=st=1713691371~exp=1713694971~hmac=04b6b3707136607df91bfa0b3e16da5d682edd762af895b3d2149fe208aa32c0&w=740"
+    },
+    {
+        "name": "Vue",
+        "title": "Vue For Begginers",
+        "price": 15,
+        "desc":"Vue.js is a progressive JavaScript framework used for building user interfaces and single-page applications. It offers a flexible and approachable ecosystem that makes it easy to integrate with existing projects and libraries.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/app-development-concept-with-programming-languages_23-2148688949.jpg?t=st=1713691450~exp=1713695050~hmac=6c201c4828035ba7322014d77ed700820c51765fd561425db5a7eba91e1af0c5&w=360"
+    },
+    {
+        "name": "Angular",
+        "title": "Angular For Begginers",
+        "price": 5,
+        "desc":"Angular is a platform and framework for building client-side web applications. It provides a comprehensive solution for front-end development, with features such as data binding, dependency injection, and modular architecture, designed to simplify the development process.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-743.jpg?t=st=1713447263~exp=1713450863~hmac=efe28f0ee717f44815ec10cca90632b990f0aac132afc34b407cb5d53e49e860&w=740"
+    },
+    {
+        "name": "Full Stack Devlopement",
+        "title": "Full Stack Devlopement",
+        "price": 25,
+        "desc":" Full stack development involves working on both the frontend and backend of web applications. It requires proficiency in multiple technologies, including HTML, CSS, JavaScript, and various backend frameworks or languages, to build robust and scalable web applications.",
+        "url":"https://drive.google.com/file/d/1-sIjpCex5mBX1Jij-gzz9NFK8VfEU1v6/view",
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1713691481~exp=1713695081~hmac=cd2895ffce669e113f6464e49cbc72237aebb20a78a1715475481a5f34195308&w=740"
+    }
+]

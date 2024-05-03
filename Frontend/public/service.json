@@ -1,0 +1,22 @@
+[
+    {
+        "image":"https://img.freepik.com/free-vector/engineer-developer-with-laptop-tablet-code-cross-platform-development-cross-platform-operating-systems-software-environments-concept-bright-vibrant-violet-isolated-illustration_335657-312.jpg?t=st=1713508651~exp=1713512251~hmac=6661e159786727f6fa61091e18a917c367b255826e652d3f6c01522f0db3646f&w=740",
+        "title":"Full Stack Devlopement",
+        "desc":"A Full Stack Developer is proficient in both front-end and back-end development, possessing a comprehensive understanding of the entire web development process. They excel in creating dynamic and interactive user interfaces using languages like HTML, CSS, and JavaScript on the front end, while also proficient in server-side scripting, database management, and server configuration on the back end. With expertise in various frameworks, libraries, and tools, Full Stack Developers are capable of building robust and scalable web applications that meet both user requirements and business objectives. Their versatility and ability to work across the entire software stack make them valuable assets in today's tech-driven world."
+    },
+    {
+        "image":"https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1713508694~exp=1713512294~hmac=abb1a8fcd0b7982b89911240fb0da6b94471af3720b3d38cc5a69fe27340d14d&w=740",
+        "title":"Frontend Developer",
+        "desc":"A Full Stack Developer is proficient in both front-end and back-end development, possessing a comprehensive understanding of the entire web development process. They excel in creating dynamic and interactive user interfaces using languages like HTML, CSS, and JavaScript on the front end, while also proficient in server-side scripting, database management, and server configuration on the back end. With expertise in various frameworks, libraries, and tools, Full Stack Developers are capable of building robust and scalable web applications that meet both user requirements and business objectives. Their versatility and ability to work across the entire software stack make them valuable assets in today's tech-driven world."
+    },
+    {
+        "image":"https://img.freepik.com/premium-vector/devops-concept-programmers-practice-development-software-operations-developer-working-operations-process-technical-support-programming-code-programmer-using-devops-method-vector-design_458444-1779.jpg?w=740",
+        "title":"Backend Devloper",
+        "desc":"A Full Stack Developer is proficient in both front-end and back-end development, possessing a comprehensive understanding of the entire web development process. They excel in creating dynamic and interactive user interfaces using languages like HTML, CSS, and JavaScript on the front end, while also proficient in server-side scripting, database management, and server configuration on the back end. With expertise in various frameworks, libraries, and tools, Full Stack Developers are capable of building robust and scalable web applications that meet both user requirements and business objectives. Their versatility and ability to work across the entire software stack make them valuable assets in today's tech-driven world."
+    },
+    {
+        "image":"https://img.freepik.com/free-photo/ai-cloud-with-robot-head_23-2149739759.jpg?t=st=1713508775~exp=1713512375~hmac=539ebfd1c5bd77d9fb1999016b626db44429adac04ff7c8bc9e76887989ad783&w=740",
+        "title":"Artificial Intellegence",
+        "desc":"A Full Stack Developer is proficient in both front-end and back-end development, possessing a comprehensive understanding of the entire web development process. They excel in creating dynamic and interactive user interfaces using languages like HTML, CSS, and JavaScript on the front end, while also proficient in server-side scripting, database management, and server configuration on the back end. With expertise in various frameworks, libraries, and tools, Full Stack Developers are capable of building robust and scalable web applications that meet both user requirements and business objectives. Their versatility and ability to work across the entire software stack make them valuable assets in today's tech-driven world."
+    }
+]
