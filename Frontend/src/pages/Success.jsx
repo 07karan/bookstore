@@ -18,7 +18,7 @@ const Success = () => {
 
   // const downloadPDF = async () => {
   //   try {
-  //     const res = await axios.get(`http://localhost:8080/api/book/${id}`)
+  //     const res = await axios.get(`https://bookstore-1gta.onrender.com/book/${id}`)
   //     const data=res.data;
   //     window.open(`${data.data.url}`, '_blank');
   //   } catch (error) {

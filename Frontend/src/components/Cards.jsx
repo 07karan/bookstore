@@ -23,7 +23,7 @@ function Cards({ item }) {
     //   };
 
     //   const res = await axios.post(
-    //     "https://bookstore-1gta.onrender.com//order",
+    //     "https://bookstore-1gta.onrender.com/user/order",
     //     body,
     //     headers
     //   );
@@ -48,7 +48,7 @@ function Cards({ item }) {
     //   razor.open();
     //   e.preventDefault();
 
-    //   const response = await axios.post("https://bookstore-1gta.onrender.com//generateinvoice",body,headers)
+    //   const response = await axios.post("https://bookstore-1gta.onrender.com/user/generateinvoice",body,headers)
     //   const data1=response.data;
     //   console.log(data1)
     //   navigate(`/success`);

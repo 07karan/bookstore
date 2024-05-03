@@ -12,7 +12,7 @@ const Singlecart = () => {
     useEffect(() => {
         const fetchdata = async () => {
             try {
-                const res = await axios.get(`http://localhost:8080/api/book/${id}`);
+                const res = await axios.get(`https://bookstore-1gta.onrender.com/book/${id}`);
                 const data = res.data;
                 setInfo(data.data);
                 console.log(data);

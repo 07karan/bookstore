@@ -10,7 +10,7 @@ function Courses() {
     try {
       if(query.trim()!==""){
 
-        const res = await axios.get(`http://localhost:8080/api/book/search?name=${query}`)
+        const res = await axios.get(`https://bookstore-1gta.onrender.com/book/search?name=${query}`)
         const data = res.data;
         setSearchResult(data.book);
         // setQuery("");
