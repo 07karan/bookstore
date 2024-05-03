@@ -54,7 +54,7 @@ const Cart = () => {
           };
 
           const res = await axios.post(
-            "http://localhost:8080/api/user/order",
+            "https://bookstore-1gta.onrender.com//order",
             {currency:"INR",cart},
             headers
           );
@@ -86,7 +86,7 @@ const Cart = () => {
           razor.open();
           e.preventDefault();
 
-        //   const response = await axios.post("http://localhost:8080/api/user/generateinvoice",body,headers)
+        //   const response = await axios.post("https://bookstore-1gta.onrender.com//generateinvoice",body,headers)
         //   const data1=response.data;
         //   console.log(data1)
           navigate(`/success`);
