@@ -1,5 +1,5 @@
 //this is the host url
-export const host=`https://bookstore-1gta.onrender.com/user`;
+export const host=`https://bookstore-1gta.onrender.com`;
 
 // this all user url
 export const loginRoute=`https://bookstore-1gta.onrender.com/user/login`;
