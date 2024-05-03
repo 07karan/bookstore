@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 import dotenv from 'dotenv';
 
 dotenv.config();
-const URI = process.env.MongoDBURI;
+const URI = process.env.MONGODBURL;
 export const connection=async()=>{
     try {
         await mongoose.connect(URI);
