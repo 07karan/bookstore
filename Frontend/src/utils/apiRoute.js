@@ -1,5 +1,5 @@
 //this is the host url
-export const host=`${host}`;
+export const host=`http://localhost:8080`;
 
 // this all user url
 export const loginRoute=`${host}/user/login`;
